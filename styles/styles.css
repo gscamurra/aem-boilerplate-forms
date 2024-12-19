@@ -247,11 +247,14 @@ main .section {
     display: block;
     background-color: #d7052f;
     margin-top: -26px;
-
   }
 
   .fascicolo-servizi a.button:any-link { 
     width: 300px;
+  }
+
+  .fascicolo-servizi div div { 
+    margin-bottom: 10px;
   }
 
   .main-menu a.button:any-link, .main-menu button{
