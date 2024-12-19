@@ -214,7 +214,7 @@ main .section {
 }
 
 .main-top {
-  padding-bottom: 15px !important;
+  display: none;
 }
 
 .fascicolo-servizi div:nth-child(2) p {
@@ -228,6 +228,12 @@ main .section {
 }
 
 @media (width >= 900px) {
+
+  .main-top {
+    display: block;
+    padding-bottom: 15px !important;
+  }
+
   .section > div {
     max-width: 1200px;
     margin: auto;
