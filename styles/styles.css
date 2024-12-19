@@ -191,6 +191,10 @@ main .section {
   padding: 64px 16px;
 }
 
+.main-menu {
+  display: none !important;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
@@ -205,6 +209,8 @@ main .section {
   
   .main-menu {
     background-color: #d7052f;
+    margin-top: -26px;
+
   }
 
   .main-menu a.button:any-link, .main-menu button{
