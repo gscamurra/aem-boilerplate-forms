@@ -217,6 +217,10 @@ main .section {
   padding-bottom: 15px !important;
 }
 
+.fascicolo-servizi div:nth-child(2) p {
+  text-align: right;
+} 
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
