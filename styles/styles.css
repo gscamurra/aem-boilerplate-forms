@@ -274,6 +274,9 @@ main .section {
   .main-menu a.button:hover {
     background-color: #FFF;
     color: #555;
+    padding-left: 10px;
+    padding-right: 10px;
+    }
   }
 
 
