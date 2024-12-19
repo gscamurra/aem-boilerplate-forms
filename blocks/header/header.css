@@ -16,7 +16,7 @@ header nav {
   gap: 0 2em;
   margin: auto;
   max-width: 1200px;
-  height: 180px;
+  height: 90px;
   padding: 0 1rem;
   font-family: var(--body-font-family);
   background-color: #d70130;
@@ -46,6 +46,10 @@ header nav[aria-expanded="true"] {
   header nav[aria-expanded="true"] {
     min-height: 0;
     overflow: visible;
+  }
+
+  header nav { 
+    height: 180px;
   }
 }
 
