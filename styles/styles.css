@@ -271,6 +271,11 @@ main .section {
     border-radius: 0;
   }
 
+  .main-menu a.button:hover {
+    background-color: #FFF;
+    color: #555;
+  }
+
 
 
   .main-menu p.button-container {
