@@ -207,7 +207,7 @@ main .section {
     background-color: #d7052f;
   }
 
-  .main-menu a {
+  .main-menu a.button:any-link, .main-menu button{
     background: none;
     border: 0;
     padding: 0;
