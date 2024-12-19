@@ -192,7 +192,7 @@ main .section {
 }
 
 .main-menu {
-  display: none !important;
+  display: none;
 }
 
 @media (width >= 600px) {
@@ -208,6 +208,7 @@ main .section {
   }
   
   .main-menu {
+    display: block;
     background-color: #d7052f;
     margin-top: -26px;
 
