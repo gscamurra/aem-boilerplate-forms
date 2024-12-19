@@ -222,7 +222,7 @@ main .section {
 }
 
 .fascicolo-servizi div div { 
-  margin-bottom: 0px;
+  margin-bottom: -24px;
 }
 
 @media (width >= 600px) {
