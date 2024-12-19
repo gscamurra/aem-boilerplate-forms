@@ -213,6 +213,10 @@ main .section {
   padding-bottom: 0 !important;
 }
 
+.main-top {
+  padding-bottom: 15px !important;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
