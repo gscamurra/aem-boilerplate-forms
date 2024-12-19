@@ -216,6 +216,12 @@ main .section {
     font-size: 20px;
   }
 
+  .main-menu p.button-container {
+    text-align: center;
+    margin-top: .5px;
+    margin-bottom: .5px;
+  }
+
 
 }
 
