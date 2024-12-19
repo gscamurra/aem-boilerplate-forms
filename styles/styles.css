@@ -206,6 +206,13 @@ main .section {
   width: 300px;
 }
 
+.zero-space {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
