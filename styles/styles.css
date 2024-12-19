@@ -191,7 +191,7 @@ main .section {
   padding: 64px 16px;
 }
 
-.main-menu {
+.main-menu, .main-top p picture {
   display: none;
 }
 
@@ -206,6 +206,10 @@ main .section {
     max-width: 1200px;
     margin: auto;
   }
+
+  .main-top p picture {
+    display: block;
+  } 
   
   .main-menu {
     display: block;
