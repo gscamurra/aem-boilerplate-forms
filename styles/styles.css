@@ -195,6 +195,15 @@ main .section {
   display: none;
 }
 
+.fascicolo-servizi a.button:any-link {
+  background-color: #157db6;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+  border-radius: 0;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
@@ -227,6 +236,8 @@ main .section {
     font-size: 20px;
     border-radius: 0;
   }
+
+
 
   .main-menu p.button-container {
     text-align: center;
