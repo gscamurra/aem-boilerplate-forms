@@ -219,7 +219,11 @@ main .section {
 
 .fascicolo-servizi div:nth-child(2) p {
   text-align: right;
-} 
+}
+
+.fascicolo-servizi div div { 
+  margin-bottom: 0px;
+}
 
 @media (width >= 600px) {
   main .section {
@@ -254,7 +258,7 @@ main .section {
   }
 
   .fascicolo-servizi div div { 
-    margin-bottom: 10px;
+    margin-bottom: 0px;
   }
 
   .main-menu a.button:any-link, .main-menu button{
