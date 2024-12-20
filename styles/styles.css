@@ -225,7 +225,7 @@ main .section {
   margin-bottom: -24px;
 }
 
-.most-visited-service .button-container a {
+.service .button-container a {
   color: #555;
   background: #fff;
   width: 90%;
@@ -241,7 +241,7 @@ main .section {
   font-size: 19px;
 }
 
-.most-visited-service .button-container {
+.service .button-container {
   border: 2px solid #d6012e;
   border-radius: 15px;
 }
