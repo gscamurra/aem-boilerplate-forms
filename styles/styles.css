@@ -288,6 +288,11 @@ main .section {
     border-radius: 0px;
   }
 
+  .most-visited-service .button-container {
+    border: 2px solid #d6012e;
+    border-radius: 15px;
+  }
+
 
 
   .main-menu p.button-container {
