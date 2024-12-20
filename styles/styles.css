@@ -246,6 +246,11 @@ main .section {
   border-radius: 15px;
 }
 
+h3 {
+  font-size: 25px !important;
+  color: #555;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
