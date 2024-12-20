@@ -241,12 +241,16 @@ main .section {
   font-size: 19px;
 }
 
-.service .button-container a { 
-  border-left: 40px solid #d6012e;
+.service.yellow .button-container a { 
+  border-left: 40px solid #e89f02;
 }
 
-.service.yellow .button-container {
-  border: 2px solid  #e89f02;
+.service.violet .button-container a { 
+  border-left: 40px solid #8aadfe;
+}
+
+.service .button-container {
+  border: 2px solid  #d6012e;
   border-radius: 15px;
 }
 
@@ -254,6 +258,12 @@ main .section {
   border: 2px solid #e89f02;
   border-radius: 15px;
 }
+
+.service.violet .button-container {
+  border: 2px solid #8aadfe;
+  border-radius: 15px;
+}
+
 
 
 h3 {
