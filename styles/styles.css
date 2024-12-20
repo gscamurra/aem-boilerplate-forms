@@ -241,10 +241,20 @@ main .section {
   font-size: 19px;
 }
 
-.service .button-container {
-  border: 2px solid #d6012e;
+.service .button-container a { 
+  border-left: 40px solid #d6012e;
+}
+
+.service.yellow .button-container {
+  border: 2px solid  #e89f02;
   border-radius: 15px;
 }
+
+.service.yellow .button-container {
+  border: 2px solid #e89f02;
+  border-radius: 15px;
+}
+
 
 h3 {
   font-size: 25px !important;
