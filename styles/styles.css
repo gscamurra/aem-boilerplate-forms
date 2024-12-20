@@ -264,11 +264,14 @@ main .section {
   border-radius: 15px;
 }
 
-
-
 h3 {
   font-size: 25px !important;
   color: #555;
+}
+
+h4 {
+  font-size: 20px;
+  color: #d7052f;
 }
 
 @media (width >= 600px) {
