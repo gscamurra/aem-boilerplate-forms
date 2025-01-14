@@ -130,10 +130,12 @@ function handleFranklinSpecialCases(item) {
   }
 }
 
+// gestione label con il placeholder
+
 function initField() {
   return {
     constraintMessages: {
-      required: 'Please fill in this field.',
+      required: 'Questo campo è obbligatorio.',
     },
   };
 }
