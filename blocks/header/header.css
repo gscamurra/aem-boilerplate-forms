@@ -285,3 +285,10 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+@media (width >= 900px) {
+    header nav .nav-brand img {
+        width: 90px;
+        height: auto;
+    }
+}
