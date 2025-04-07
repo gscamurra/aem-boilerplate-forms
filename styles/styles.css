@@ -274,6 +274,12 @@ h4 {
   color: #d7052f;
 }
 
+
+.notizie img {
+    max-width: 50%;
+    float: right;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
